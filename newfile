@@ -1,0 +1,6 @@
+echo creating new file. Enter filename
+read filename
+echo "Learning how to push code to git" > $filename
+cat $filename	
+date
+
